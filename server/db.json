@@ -15,7 +15,7 @@
       "brand": "Brand2",
       "category": "Furniture",
       "price": 5000000,
-      "image": "https://media.istockphoto.com/id/1309042044/photo/interior-design-of-stylish-dining-room-interior-with-family-wooden-table-modern-chairs-plate.webp?a=1&b=1&s=612x612&w=0&k=20&c=vNImJTyh4hZjqeVz6Ub3xSwWFj9wiRomz9sUUis6bZU=",
+      "image": "https://th.bing.com/th/id/OIP.-hr2jezTivF_5ywBdiDQ_gHaFw?w=272&h=211&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       "label": "Sale"
     },
     {
@@ -24,7 +24,7 @@
       "brand": "Brand1",
       "category": "Decor",
       "price": 300000,
-      "image": "https://media.istockphoto.com/id/2166574968/photo/close-up-of-clock-on-wall.webp?a=1&b=1&s=612x612&w=0&k=20&c=aNpyOH1_z9e1AiuY9sPPgf3O2KuZgif5csw3gGKN_fQ="
+      "image": "https://m.media-amazon.com/images/I/71zgpygzraL.AC_UL400.jpg"
     },
     {
       "id": 4,
@@ -32,7 +32,7 @@
       "brand": "Brand2",
       "category": "Lighting",
       "price": 700000,
-      "image": "https://media.istockphoto.com/id/1153214229/photo/blank-wall-mock-up-in-living-room-interior.webp?a=1&b=1&s=612x612&w=0&k=20&c=Zp5Nxt503Eqk6mrqbQEL-6xrfsy583y4DGynkVMgR7Q="
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71t8H7Sa0QL.AC_SL1500.jpg"
     },
     {
       "id": 5,
@@ -40,7 +40,7 @@
       "brand": "Brand1",
       "category": "Furniture",
       "price": 1200000,
-      "image": "https://media.istockphoto.com/id/1085770318/photo/wooden-brown-books-shelves-with-a-lamp.webp?a=1&b=1&s=612x612&w=0&k=20&c=dSESvi4cZU4BDXZI6rySlsjAEgRUePg6jHlMPOMVyBA=",
+      "image": "https://i.pinimg.com/originals/44/de/d0/44ded0c4d18d18274f216e33490af1ea.jpg",
       "label": "Trending"
     },
     {
@@ -49,7 +49,7 @@
       "brand": "Brand2",
       "category": "Decor",
       "price": 250000,
-      "image": "https://images.unsplash.com/photo-1647266133831-402006aea4d2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGRlY29yYXRpdmUlMjB2YXNlfGVufDB8fDB8fHww"
+      "image": "https://i.pinimg.com/originals/b0/69/74/b06974267bdcb3f45785e709a7e837dc.jpg"
     },
     {
       "id": 7,
@@ -57,7 +57,7 @@
       "brand": "Brand1",
       "category": "Furniture",
       "price": 8000000,
-      "image": "https://plus.unsplash.com/premium_photo-1670360414628-e26e589fed51?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8S2luZyUyMFNpemUlMjBCZWR8ZW58MHx8MHx8fDA%3D"
+      "image": "https://i5.walmartimages.com/asr/5175334c-ee82-40aa-9375-1712547f453d_2.bed83d1e5a25387c2ab85be44afd822e.jpeg"
     },
     {
       "id": 8,
@@ -65,7 +65,7 @@
       "brand": "Brand2",
       "category": "Electronics",
       "price": 2000000,
-      "image": "https://images.unsplash.com/photo-1609519479841-5fd3b2884e17?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Q2VpbGluZyUyMEZhbnxlbnwwfHwwfHx8MA%3D%3D"
+      "image": "https://whiteteak.com/media/catalog/product/c/f/cf8-10002_1_.jpg"
     },
     {
       "id": 9,
@@ -73,7 +73,7 @@
       "brand": "Brand1",
       "category": "Furniture",
       "price": 450000,
-      "image": "https://images.unsplash.com/photo-1688578735427-994ecdea3ea4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8b2ZmaWNlJTIwY2hhaXJ8ZW58MHx8MHx8fDA%3D"
+      "image": "https://i5.walmartimages.com/asr/7db6f9fa-37dd-422b-8d4d-e8c79f92a55d_1.455056d9a84575095caa8d070f05e0d7.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"
     },
     {
       "id": 10,
@@ -81,7 +81,7 @@
       "brand": "Brand2",
       "category": "Lighting",
       "price": 600000,
-      "image": "https://images.unsplash.com/photo-1704110347754-4969a6b91362?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UGVuZGFudCUyMExpZ2h0fGVufDB8fDB8fHww"
+      "image": "https://i.pinimg.com/originals/38/17/f5/3817f5703c67556f425eb00c7badccc5.jpg"
     },
     {
       "id": 11,
@@ -89,7 +89,7 @@
       "brand": "Brand1",
       "category": "Decor",
       "price": 180000,
-      "image": "https://media.istockphoto.com/id/1167635269/photo/assorted-decorative-patio-cushions.webp?a=1&b=1&s=612x612&w=0&k=20&c=1Bn0U1c56KSzHOab0dplHLbG9cnO6z_SCFiVf9SQvZo="
+      "image": "https://mysleepyhead.com/media/catalog/product/t/w/two_sided_floral_cushion_covers_maroon.jpg"
     },
     {
       "id": 12,
@@ -97,7 +97,7 @@
       "brand": "Brand2",
       "category": "Electronics",
       "price": 10000000,
-      "image": "https://images.unsplash.com/photo-1601944179066-29786cb9d32a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHNtYXJ0JTIwdHZ8ZW58MHx8MHx8fDA%3D"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZv-yK9qODuGOIpnGDUyREV-ETlvx_mYJumMm_cJTFpdT82B3VNywrxu_5dxOdCQIan9k&usqp=CAU"
     },
     {
       "id": 13,
@@ -105,7 +105,7 @@
       "brand": "Brand3",
       "category": "Furniture",
       "price": 850000,
-      "image": "https://images.unsplash.com/photo-1518012354962-1820f9819c5c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNvZmZlZSUyMHRhYmxlfGVufDB8fDB8fHww",
+      "image": "https://www.woodvestal.com/cdn/shop/files/FD1FDCE5-E548-48CD-90F6-5B5F08EF35D1_1_201_a.jpg?v=1716531102&width=1946",
       "label": "New"
     },
     {
@@ -114,7 +114,7 @@
       "brand": "Brand4",
       "category": "Electronics",
       "price": 320000,
-      "image": "https://images.unsplash.com/photo-1518671678551-911467efe539?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZXRvb3RoJTIwc3BlYWtlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "image": "https://m.media-amazon.com/images/I/71hvGkBMFNL.AC_SL1500.jpg",
       "label": "Best Seller"
     },
     {
@@ -123,7 +123,7 @@
       "brand": "Brand3",
       "category": "Decor",
       "price": 150000,
-      "image": "https://plus.unsplash.com/premium_photo-1706800283450-ae444a092aa8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y3VydGFpbnN8ZW58MHx8MHx8fDA%3D"
+      "image": "https://m.media-amazon.com/images/I/91SR5NN3QtL.AC_UF894,1000_QL80.jpg"
     },
     {
       "id": 16,
@@ -131,7 +131,7 @@
       "brand": "Brand4",
       "category": "Electronics",
       "price": 1200000,
-      "image": "https://plus.unsplash.com/premium_photo-1661585989618-ed4dad8ae5d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWljcm8lMjBvdmVufGVufDB8fDB8fHww"
+      "image": "https://th.sharp/sites/default/files/uploads/2021-08/Is%20microwaved%20food%20dangerous%20due%20to%20radiation.jpg"
     },
     {
       "id": 17,
@@ -139,7 +139,7 @@
       "brand": "Brand1",
       "category": "Decor",
       "price": 400000,
-      "image": "https://plus.unsplash.com/premium_photo-1664114727312-cf38fd519315?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cnVnfGVufDB8fDB8fHww"
+      "image": "https://i5.walmartimages.com/asr/3a97869f-848a-407f-b25b-c8e009905fed_1.de9fb65e5f88ee06024d852cf5747c01.jpeg"
     },
     {
       "id": 18,
@@ -147,7 +147,7 @@
       "brand": "Brand3",
       "category": "Furniture",
       "price": 2000000,
-      "image": "https://media.istockphoto.com/id/136382413/photo/tv-chair-in-the-living-room.webp?a=1&b=1&s=612x612&w=0&k=20&c=tKG3XlphC5waepEJsV67yVYtYT9oTbbokmNGBNpikZE="
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZj0mHVWXl9wh1VR6SQyXObo3INhnaZxkI3Q&s"
     },
     {
       "id": 19,
@@ -155,7 +155,7 @@
       "brand": "Brand4",
       "category": "Lighting",
       "price": 500000,
-      "image": "https://media.istockphoto.com/id/598954202/photo/some-led-lamps-blue-light-science-technology-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=4i1LYt6dwL2fJpRjlZuHYM4A8f7GatQtllW4deWGr9U="
+      "image": "https://www.giftoo.in/cdn/shop/files/T.V-Style-2-in-1-Desk-Lamp-4.jpg?v=1711630500&width=1946"
     },
     {
       "id": 20,
@@ -163,7 +163,7 @@
       "brand": "Brand2",
       "category": "Electronics",
       "price": 1500000,
-      "image": "https://images.unsplash.com/photo-1662647344223-ae724eb97204?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFdhdGVyJTIwUHVyaWZpZXJ8ZW58MHx8MHx8fDA%3D"
+      "image": "https://waterpurifierguide.in/wp-content/uploads/2019/03/Eureka-Forbes-Aquaguard-Enhance-7-Litre-ROUVTDS-Water-Purifier.jpg"
     },
     {
       "id": 21,
@@ -171,7 +171,7 @@
       "brand": "Brand3",
       "category": "Furniture",
       "price": 1200000,
-      "image": "https://media.istockphoto.com/id/1990734665/photo/professional-esports-gamer.webp?a=1&b=1&s=612x612&w=0&k=20&c=yngd84g-kFgKxNPyUF_ptsmhoMmxmPG0o6MsKe_LRvE="
+      "image": "https://ik.imagekit.io/2xkwa8s1i/img/chairs/office-chair/WSCHRMASTPGBPBRDBKBKML.jpg?tr=w-3840"
     },
     {
       "id": 22,
@@ -179,7 +179,7 @@
       "brand": "Brand1",
       "category": "Decor",
       "price": 300000,
-      "image": "https://plus.unsplash.com/premium_photo-1682088718214-63d88903430e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEZyYW1lZCUyMEFydHxlbnwwfHwwfHx8MA%3D%3D"
+      "image": "https://i.etsystatic.com/27734617/r/il/5c446a/2997581198/il_fullxfull.2997581198_aqv5.jpg"
     },
     {
       "id": 23,
@@ -187,7 +187,7 @@
       "brand": "Brand2",
       "category": "Lighting",
       "price": 250000,
-      "image": "https://media.istockphoto.com/id/182370767/photo/profile-of-yellow-desk-lamp-turned-on-on-white-table.webp?a=1&b=1&s=612x612&w=0&k=20&c=AzknuHS4JdLOuQHu_gggGRF375YGVaxl0iGf1IxH7B8="
+      "image": "https://www.akway.in/cdn/shop/files/17b_907fbe7f-bd88-45e3-8ada-e1ff5862683f.jpg?v=1701922885&width=1445"
     },
     {
       "id": 24,
@@ -195,7 +195,7 @@
       "brand": "Brand4",
       "category": "Electronics",
       "price": 3000000,
-      "image": "https://m.media-amazon.com/images/I/51eMr0B-93L.jpg"
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-156412,resizemode-75,msid-98293657/top-trending-products/major-appliances/air-conditioners/dont-suffer-through-the-summer-get-a-portable-ac-and-stay-cool-under-15000.jpg"
     },
     {
       "id": 25,
@@ -203,7 +203,7 @@
       "brand": "Brand3",
       "category": "Decor",
       "price": 200000,
-      "image": "https://images.unsplash.com/photo-1505063366573-38928ae5567e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fCUyMm5hbWUlMjIlM0ElMjAlMjJCb29rcyUyMiUyQ3xlbnwwfHwwfHx8MA%3D%3D"
+      "image": "https://static.vecteezy.com/system/resources/previews/023/575/435/original/an-organized-and-neat-stack-of-books-is-displayed-on-a-transparent-background-in-a-highly-realistic-design-generative-ai-png.png"
     },
     {
       "id": 26,
@@ -211,7 +211,7 @@
       "brand": "Brand2",
       "category": "Electronics",
       "price": 400000,
-      "image": "https://m.media-amazon.com/images/I/614+4XNwpML.jpg"
+      "image": "https://i.insider.com/55b6375e371d22dd2e8b8d09?width=997"
     },
     {
       "id": 27,
@@ -219,7 +219,7 @@
       "brand": "Brand1",
       "category": "Furniture",
       "price": 900000,
-      "image": "https://images.unsplash.com/photo-1529957018945-07aed3538ad5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8U2hlbGYlMjBPcmdhbml6ZXJ8ZW58MHx8MHx8fDA%3D"
+      "image": "https://i.etsystatic.com/21310735/r/il/a9352c/3868237742/il_fullxfull.3868237742_55yk.jpg"
     },
     {
       "id": 28,
@@ -227,7 +227,7 @@
       "brand": "Brand3",
       "category": "Lighting",
       "price": 300000,
-      "image": "https://images.unsplash.com/photo-1453090927415-5f45085b65c0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8U3BvdGxpZ2h0fGVufDB8fDB8fHww"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyc6izF3aaL0b2XTT73TOGydrZur-fSC9dgQ&s"
     },
     {
       "id": 29,
@@ -235,7 +235,7 @@
       "brand": "Brand4",
       "category": "Electronics",
       "price": 4500000,
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTuAweT5suvYEehNCj2dQsGiXLE2rvAoGMrUSZ4o_X5J1aES5lgkBcCjceeUsPxTDgltYdfOGqnPNQgkunqBJh_bxqOtpEINZl-4fbzBELb2ank0kp3sH3iBg"
+      "image": "https://m.media-amazon.com/images/I/71rHkcx+WeS.AC_SL1500.jpg"
     },
     {
       "id": 30,
@@ -243,7 +243,7 @@
       "brand": "Brand1",
       "category": "Furniture",
       "price": 500000,
-      "image": "https://images.unsplash.com/photo-1499933374294-4584851497cc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmVkc2lkZSUyMFRhYmxlfGVufDB8fDB8fHww"
+      "image": "https://www.therange.co.uk/_m3/2/4/1648139887_3139.jpg"
     }
   ]
 }
