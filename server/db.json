@@ -1,0 +1,249 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Luxury Sofa",
+      "brand": "Brand1",
+      "category": "Furniture",
+      "price": 1500000,
+      "image": "https://media.istockphoto.com/id/1212526330/photo/bohemian-living-room-interior-3d-render.jpg?s=2048x2048&w=is&k=20&c=-0pBkyob_TR2GLxKc3StPOtox40mKFGBMOkXzL93cIQ=",
+      "label": "New"
+    },
+    {
+      "id": 2,
+      "name": "Dining Table Set",
+      "brand": "Brand2",
+      "category": "Furniture",
+      "price": 5000000,
+      "image": "https://media.istockphoto.com/id/1309042044/photo/interior-design-of-stylish-dining-room-interior-with-family-wooden-table-modern-chairs-plate.webp?a=1&b=1&s=612x612&w=0&k=20&c=vNImJTyh4hZjqeVz6Ub3xSwWFj9wiRomz9sUUis6bZU=",
+      "label": "Sale"
+    },
+    {
+      "id": 3,
+      "name": "Wall Clock",
+      "brand": "Brand1",
+      "category": "Decor",
+      "price": 300000,
+      "image": "https://media.istockphoto.com/id/2166574968/photo/close-up-of-clock-on-wall.webp?a=1&b=1&s=612x612&w=0&k=20&c=aNpyOH1_z9e1AiuY9sPPgf3O2KuZgif5csw3gGKN_fQ="
+    },
+    {
+      "id": 4,
+      "name": "Floor Lamp",
+      "brand": "Brand2",
+      "category": "Lighting",
+      "price": 700000,
+      "image": "https://media.istockphoto.com/id/1153214229/photo/blank-wall-mock-up-in-living-room-interior.webp?a=1&b=1&s=612x612&w=0&k=20&c=Zp5Nxt503Eqk6mrqbQEL-6xrfsy583y4DGynkVMgR7Q="
+    },
+    {
+      "id": 5,
+      "name": "Bookshelf",
+      "brand": "Brand1",
+      "category": "Furniture",
+      "price": 1200000,
+      "image": "https://media.istockphoto.com/id/1085770318/photo/wooden-brown-books-shelves-with-a-lamp.webp?a=1&b=1&s=612x612&w=0&k=20&c=dSESvi4cZU4BDXZI6rySlsjAEgRUePg6jHlMPOMVyBA=",
+      "label": "Trending"
+    },
+    {
+      "id": 6,
+      "name": "Decorative Vase",
+      "brand": "Brand2",
+      "category": "Decor",
+      "price": 250000,
+      "image": "https://images.unsplash.com/photo-1647266133831-402006aea4d2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGRlY29yYXRpdmUlMjB2YXNlfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 7,
+      "name": "King Size Bed",
+      "brand": "Brand1",
+      "category": "Furniture",
+      "price": 8000000,
+      "image": "https://plus.unsplash.com/premium_photo-1670360414628-e26e589fed51?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8S2luZyUyMFNpemUlMjBCZWR8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 8,
+      "name": "Ceiling Fan",
+      "brand": "Brand2",
+      "category": "Electronics",
+      "price": 2000000,
+      "image": "https://images.unsplash.com/photo-1609519479841-5fd3b2884e17?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Q2VpbGluZyUyMEZhbnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 9,
+      "name": "Office Chair",
+      "brand": "Brand1",
+      "category": "Furniture",
+      "price": 450000,
+      "image": "https://images.unsplash.com/photo-1688578735427-994ecdea3ea4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8b2ZmaWNlJTIwY2hhaXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 10,
+      "name": "Pendant Light",
+      "brand": "Brand2",
+      "category": "Lighting",
+      "price": 600000,
+      "image": "https://images.unsplash.com/photo-1704110347754-4969a6b91362?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UGVuZGFudCUyMExpZ2h0fGVufDB8fDB8fHww"
+    },
+    {
+      "id": 11,
+      "name": "Cushion Set",
+      "brand": "Brand1",
+      "category": "Decor",
+      "price": 180000,
+      "image": "https://media.istockphoto.com/id/1167635269/photo/assorted-decorative-patio-cushions.webp?a=1&b=1&s=612x612&w=0&k=20&c=1Bn0U1c56KSzHOab0dplHLbG9cnO6z_SCFiVf9SQvZo="
+    },
+    {
+      "id": 12,
+      "name": "Smart TV",
+      "brand": "Brand2",
+      "category": "Electronics",
+      "price": 10000000,
+      "image": "https://images.unsplash.com/photo-1601944179066-29786cb9d32a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHNtYXJ0JTIwdHZ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 13,
+      "name": "Coffee Table",
+      "brand": "Brand3",
+      "category": "Furniture",
+      "price": 850000,
+      "image": "https://images.unsplash.com/photo-1518012354962-1820f9819c5c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNvZmZlZSUyMHRhYmxlfGVufDB8fDB8fHww",
+      "label": "New"
+    },
+    {
+      "id": 14,
+      "name": "Bluetooth Speaker",
+      "brand": "Brand4",
+      "category": "Electronics",
+      "price": 320000,
+      "image": "https://images.unsplash.com/photo-1518671678551-911467efe539?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZXRvb3RoJTIwc3BlYWtlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "label": "Best Seller"
+    },
+    {
+      "id": 15,
+      "name": "Curtains",
+      "brand": "Brand3",
+      "category": "Decor",
+      "price": 150000,
+      "image": "https://plus.unsplash.com/premium_photo-1706800283450-ae444a092aa8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y3VydGFpbnN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 16,
+      "name": "Microwave Oven",
+      "brand": "Brand4",
+      "category": "Electronics",
+      "price": 1200000,
+      "image": "https://plus.unsplash.com/premium_photo-1661585989618-ed4dad8ae5d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWljcm8lMjBvdmVufGVufDB8fDB8fHww"
+    },
+    {
+      "id": 17,
+      "name": "Rug",
+      "brand": "Brand1",
+      "category": "Decor",
+      "price": 400000,
+      "image": "https://plus.unsplash.com/premium_photo-1664114727312-cf38fd519315?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cnVnfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 18,
+      "name": "Recliner Chair",
+      "brand": "Brand3",
+      "category": "Furniture",
+      "price": 2000000,
+      "image": "https://media.istockphoto.com/id/136382413/photo/tv-chair-in-the-living-room.webp?a=1&b=1&s=612x612&w=0&k=20&c=tKG3XlphC5waepEJsV67yVYtYT9oTbbokmNGBNpikZE="
+    },
+    {
+      "id": 19,
+      "name": "LED Lamp",
+      "brand": "Brand4",
+      "category": "Lighting",
+      "price": 500000,
+      "image": "https://media.istockphoto.com/id/598954202/photo/some-led-lamps-blue-light-science-technology-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=4i1LYt6dwL2fJpRjlZuHYM4A8f7GatQtllW4deWGr9U="
+    },
+    {
+      "id": 20,
+      "name": "Water Purifier",
+      "brand": "Brand2",
+      "category": "Electronics",
+      "price": 1500000,
+      "image": "https://images.unsplash.com/photo-1662647344223-ae724eb97204?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFdhdGVyJTIwUHVyaWZpZXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 21,
+      "name": "Gaming Chair",
+      "brand": "Brand3",
+      "category": "Furniture",
+      "price": 1200000,
+      "image": "https://media.istockphoto.com/id/1990734665/photo/professional-esports-gamer.webp?a=1&b=1&s=612x612&w=0&k=20&c=yngd84g-kFgKxNPyUF_ptsmhoMmxmPG0o6MsKe_LRvE="
+    },
+    {
+      "id": 22,
+      "name": "Framed Art",
+      "brand": "Brand1",
+      "category": "Decor",
+      "price": 300000,
+      "image": "https://plus.unsplash.com/premium_photo-1682088718214-63d88903430e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEZyYW1lZCUyMEFydHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 23,
+      "name": "Table Lamp",
+      "brand": "Brand2",
+      "category": "Lighting",
+      "price": 250000,
+      "image": "https://media.istockphoto.com/id/182370767/photo/profile-of-yellow-desk-lamp-turned-on-on-white-table.webp?a=1&b=1&s=612x612&w=0&k=20&c=AzknuHS4JdLOuQHu_gggGRF375YGVaxl0iGf1IxH7B8="
+    },
+    {
+      "id": 24,
+      "name": "Portable AC",
+      "brand": "Brand4",
+      "category": "Electronics",
+      "price": 3000000,
+      "image": "https://m.media-amazon.com/images/I/51eMr0B-93L.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Books",
+      "brand": "Brand3",
+      "category": "Decor",
+      "price": 200000,
+      "image": "https://images.unsplash.com/photo-1505063366573-38928ae5567e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fCUyMm5hbWUlMjIlM0ElMjAlMjJCb29rcyUyMiUyQ3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 26,
+      "name": "Wireless Charger",
+      "brand": "Brand2",
+      "category": "Electronics",
+      "price": 400000,
+      "image": "https://m.media-amazon.com/images/I/614+4XNwpML.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Shelf Organizer",
+      "brand": "Brand1",
+      "category": "Furniture",
+      "price": 900000,
+      "image": "https://images.unsplash.com/photo-1529957018945-07aed3538ad5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8U2hlbGYlMjBPcmdhbml6ZXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 28,
+      "name": "Spotlight",
+      "brand": "Brand3",
+      "category": "Lighting",
+      "price": 300000,
+      "image": "https://images.unsplash.com/photo-1453090927415-5f45085b65c0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8U3BvdGxpZ2h0fGVufDB8fDB8fHww"
+    },
+    {
+      "id": 29,
+      "name": "Air Purifier",
+      "brand": "Brand4",
+      "category": "Electronics",
+      "price": 4500000,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTuAweT5suvYEehNCj2dQsGiXLE2rvAoGMrUSZ4o_X5J1aES5lgkBcCjceeUsPxTDgltYdfOGqnPNQgkunqBJh_bxqOtpEINZl-4fbzBELb2ank0kp3sH3iBg"
+    },
+    {
+      "id": 30,
+      "name": "Bedside Table",
+      "brand": "Brand1",
+      "category": "Furniture",
+      "price": 500000,
+      "image": "https://images.unsplash.com/photo-1499933374294-4584851497cc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmVkc2lkZSUyMFRhYmxlfGVufDB8fDB8fHww"
+    }
+  ]
+}
